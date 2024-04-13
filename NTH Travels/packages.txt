@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> NTH Travels - Packages</title>
+    <link rel="stylesheet" href="packages.css">
+</head>
+<body>
+    <header>
+        <h1>NTH Travels</h1>
+        <nav>
+            <a href="head.html">Home</a>
+            <a href="packages.html">Packages</a>
+            <a href="Detail.html">Details</a>
+	    <a href="About.html">About us</a>
+            <a href="contact.html">Contact us</a>
+        </nav>
+    </header>
+    <section class="packages">
+        <h2>Our Packages</h2>
+        <div class="package">
+	    <img src="Malaysia.jpg" align="left" width="150" height="200"></img>
+            <h3>Marvelous Malaysia</h3>
+            <p>Explore the tapestry of lush rainforests,vibrant cultures and breathtaking landscapes in malaysia.</p>
+	    <p> 4 Nights| 5 Days
+            <p>Price: LKR 94,000</p>
+            <button>Book Now</button>
+        </div>
+        <div class="package">
+	    <img src="europe.jpg" align="left" width="150" height="200"></img>
+            <h3>Splendors of Europe - European Adventure</h3>
+            <p>Explore the historic cities and charming countryside of Europe.</p>
+	    <p> 9 Nights| 10 Days
+            <p>Price: LKR 180,000 </p>
+            <button>Book Now</button>
+        </div>
+        <div class="package">
+	     <img src="turkey.jpg" align="left" width="150" height="200"></img>
+            <h3>Turkey - The Magical land of Sultan</h3>
+            <p>Experience the magical land of Sultans: Where East meets West, and history embraces the future.</p>
+	    <p> 7 Nights| 8 Days
+            <p>Price: LKR 250,000</p>
+            <button>Book Now</button>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2024 Travel Agency. All rights reserved.</p>
+    </footer>
+</body>
+</html>

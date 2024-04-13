@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>	
+	<title> NTH Travels </title>
+	<link rel="stylesheet" href="contact.css">
+</head>
+<body>
+	<header>
+		<h1> NTH Travels</h1>
+		<nav>
+		    <a href="Head.html"> Home </a>
+		    <a href="packages.html"> Packages </a>
+		    <a href="Details.html"> Details </a>
+		    <a href="About.html"> About us </a>
+		    <a href="contact.html"> Contact Us </a>
+		</nav>
+	</header>
+	<section class="contacts">
+		<font size="10" face="Georgia" align="2cm from left"><i> <b>C</b>ontact <b>NTH</b> <b>T</b>ravels </i></font><br><br>
+		<p><font size="6" face="Bookman Old Style"> NTH Travels Pvt.Ltd,</font></p>
+		<p><font size="6" face="Bookman Old Style"> No. 714/2, Main Street,</font></p>
+		<p><font size="6" face="Bookman Old Style"> Galle,80000,</font></p>
+		<p><font size="6" face="Bookman Old Style"> Sri Lanka.</font></p><br><br>
+		<p><font size="6" face="Bookman Old Style"> Tel: +9491-2224514 </font></p>
+		<p><font size="6" face="Bookman Old Style"> Fax: +9491-2251425</font></p>
+		<p><font size="6" face="Bookman Old Style"> Email: nthtravels@gmail.com </font></p>
+		<p><font size="6" face="Bookman Old Style"> Web: www.nthtravels.com</font></p>
+	</section>
+	<footer>
+		<p> 2024 NTH Travels. All rights reserved </p>
+	</footer>
+</body>
+</html>
+
+	
